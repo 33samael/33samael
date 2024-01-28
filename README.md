@@ -1,5 +1,5 @@
 
- 👋  Opa, meu nome é **Samuel Oliveira** e tenho **16 anos**. Sou um jovem que ama a área de dev e prezo continuar adquirindo **conhecimentos** para conseguir viver disso.  🧠
+ 👋  Opa, meu nome é **Samuel Oliveira** e tenho **17 anos**. Sou um jovem que ama a área de dev e prezo continuar adquirindo **conhecimentos** para conseguir viver disso.  🧠
 
  <br>
 
