@@ -1,29 +1,40 @@
+# Sobre mim
 
-### 👋  Opa, meu nome **Samuel Oliveira** e tenho **17 anos**. Sou um jovem que ama a área de dev e prezo continuar adquirindo **conhecimentos** para conseguir viver disso.  🧠
+<img align="right" width="390px" src="https://github.com/33samael/33samael/assets/155030704/6ce903bb-f5b3-4bf7-9b6d-540bcfb389b4" />
 
- <br>
+<br>
 
-#### -  🎒 Estudo na **ETEC Uirapuru**, cursando **Desenvolvimento de Sistemas**.
-#### -  💪 Procuro uma **oportunidade de emprego**.
-#### -  📱 Gosto de desenvolver para **Android**. 
+ 👋  Opa, meu nome **Samuel Oliveira** e tenho **17 anos**. Sou um jovem que ama essa área de dev e prezo continuar adquirindo **conhecimentos** para conseguir viver disso.  🧠
 
- <br>
+<br>
+
+<p align="left"> -  🎒 Estudo na <b>ETEC Uirapuru</b>, cursando <b>Desenvolvimento de Sistemas</b>. </p>
+<p align="left"> -  💪 Procuro uma <b>oportunidade de emprego</b>. </p>
+<p align="left"> -  📱 Gosto de desenvolver para <b>Android</b> </p>
+
+##
+
+### Minhas redes sociais
  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/samaelvhs)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-oliveira-5b55372a7/)
+[![Instagram](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=ff0000)](https://instagram.com/samaelvhs)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=ff0000)](https://www.linkedin.com/in/samuel-oliveira-5b55372a7/)
 
- <br>
- 
- <img align="center" width="1000px" height="375px" src="https://github.com/33samael/33samael/assets/155030704/be772660-1a17-45b4-a762-ef768c3b04b0" />
+##
 
+<img align="right" width="400px" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=33samael&layout=compact&theme=github_dark&title_color=ffffff&hide_border=true" />
 
 ### Tecnologias que utilizo
 
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Tecnologias que estou aprendendo
+![html5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26)
+![css3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6)
+![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+
+##
+
+### Aprendendo
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![kotlin](https://img.shields.io/badge/Kotlin-323330?&style=for-the-badge&logo=kotlin&logoColor=0095D5)
+
+
