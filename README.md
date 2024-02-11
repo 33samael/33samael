@@ -1,6 +1,8 @@
+<br>
+
 # Sobre mim
 
-<img align="right" width="390px" src="https://github.com/33samael/33samael/assets/155030704/6ce903bb-f5b3-4bf7-9b6d-540bcfb389b4" />
+<img align="right" width="390px" src="https://github.com/33samael/33samael/assets/155030704/7f7ceaa5-75e8-481b-8c37-91933f6660e0" />
 
 <br>
 
