@@ -2,7 +2,7 @@
 
 # Sobre mim
 
-<img align="right" width="390px" src="https://github.com/33samael/33samael/assets/155030704/7f7ceaa5-75e8-481b-8c37-91933f6660e0" />
+<img align="right" width="390px" src="https://github.com/33samael/33samael/assets/155030704/0bb5b0fb-a774-4973-ba79-9b69d94b90c8" />
 
 <br>
 
