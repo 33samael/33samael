@@ -6,7 +6,7 @@
 
 <br>
 
- 👋  Opa, meu nome é **Samuel Oliveira** e tenho **17 anos**. Sou um jovem que ama a área de dev, prezo continuar adquirindo **conhecimentos**, para no fim conseguir viver disso.  🧠
+ 👋  Opa, meu nome é **Samuel Oliveira** e tenho **17 anos**. Sou um jovem que ama a área de dev, e prezo por continuar adquirindo **conhecimentos** para, no fim, conseguir viver disso.  🧠
 
 <p align="left"> -  🎒 Estudo na <b>ETEC Uirapuru</b>, cursando <b>Desenvolvimento de Sistemas</b>. </p>
 <p align="left"> -  💪 Procuro uma <b>oportunidade de emprego</b>. </p>
