@@ -19,7 +19,7 @@
 ### Me contate / Contact me
  
 [![Instagram](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=ff0000)](https://instagram.com/samaelvhs)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=ff0000)](https://www.linkedin.com/in/samuel-oliveira-5b55372a7/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=ff0000)](www.linkedin.com/in/33-samuel-oliveira)
 
 ##
 
