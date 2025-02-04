@@ -8,7 +8,7 @@
 
  👋  Opa, meu nome é **Samuel Oliveira** e tenho **18 anos**. Sou um jovem que ama a área de dev, e prezo por continuar adquirindo **conhecimentos** para, no fim, conseguir viver disso.  🧠
 
-<p align="left"> -  🎒 Estudo na <b>ETEC Uirapuru</b>, cursando <b>Desenvolvimento de Sistemas</b>. </p>
+<p align="left"> -  🎒 Egresso na <b>ETEC Uirapuru</b>, cursando <b>Desenvolvimento de Sistemas Integrado ao Ensino Médio</b>. </p>
 <p align="left"> -  💪 Procuro uma <b>oportunidade de emprego</b>. </p>
 <p align="left"> -  📱 Gosto de desenvolver para <b>Android,</b> e também gosto de Sistemas Embarcados (interações com Arduino e outrem). </p>
 
